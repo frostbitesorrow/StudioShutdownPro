@@ -10,4 +10,4 @@ Studio Shutdown Protocol is an interactive security script developed to prevent 
 
 ---
 
-AI was used in this project.
+Development Note: AI-assisted tools were utilized in the generation and structuring of this project's source code and documentation.
