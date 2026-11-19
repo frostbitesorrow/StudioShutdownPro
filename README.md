@@ -23,3 +23,7 @@ This tool is a standalone launcher you run manually at the end of a studio sessi
 2. Zero your audio interface potentiometers and power off your reference monitors.
 3. Click each item on screen (or press `1` and `2`) to turn both indicators green.
 4. Click **SHUT DOWN COMPUTER** to start the 10-second countdown (press `Esc` or **CANCEL** at any time to abort).
+
+## Development Note
+
+AI-assisted tools were utilized in the generation and structuring of this project's source code and documentation. All code has been reviewed, compiled, and tested by the author.
